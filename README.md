@@ -1,14 +1,12 @@
 <div align="center">
-
+	
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFBCB9&height=150&section=header&text=안뇽하세요?&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 	
 <br/>
 
 	
 🐹 *Studing...* 🧀	
-## 
 
-<br/>
 </div>
 
 <div align="center">
@@ -35,9 +33,10 @@
 
 
 <div align="center">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsangeun)](https://github.com/ohsangeun/github-readme-stats)
 
 ![eunee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsangeun&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsangeun)](https://github.com/ohsangeun/github-readme-stats)
 
 </div>
 
@@ -46,4 +45,3 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFBCB9&height=200&section=footer)
 	
 </div>
-	
