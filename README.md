@@ -1,11 +1,14 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFBCB9&height=150&section=header&text=안뇽하세요?&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+	
+<br/>
+
+	
+🐹 *Studing...* 🧀	
+## 
 
 <br/>
-	
-## 🐹Studing...🧀
-	
 </div>
 
 <div align="center">
@@ -28,6 +31,8 @@
 </div>
 
 <br/>
+<br/>
+
 
 <div align="center">
 
