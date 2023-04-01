@@ -4,8 +4,7 @@
 	
 <br/>
 
-	
-🐹 *Studing...* 🧀	
+🐹 *Studying...* 🧀	
 
 </div>
 
