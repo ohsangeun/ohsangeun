@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-FFF0F5?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-F0F8F?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-F0FFFF?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-FFFAF0?style=flat&logo=CSS3&logoColor=white" />
 </div>
