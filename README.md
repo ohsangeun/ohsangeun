@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Studing...
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=우와짱&fontSize=90" />
+
+## Studing...
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-FFF0F5?style=flat&logo=Java&logoColor=white" />
